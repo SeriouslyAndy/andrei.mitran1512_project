@@ -4,7 +4,7 @@ Smart system for security measures
 :::info 
 
 **Author**: Mitran Andrei \
-**GitHub Project Link**: https://gitlab.cs.pub.ro/andrei.mitran1512/pmrust.pages.upb.ro.git
+**GitHub Project Link**: [My Github Project](https://github.com/SeriouslyAndy/andrei.mitran1512_project)
 
 :::
 
